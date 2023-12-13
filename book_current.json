@@ -1,0 +1,19 @@
+{
+  "title": "汽车销售领域知识总结",
+  "description": "在涉及汽车领域方面的需求调研和软件开发时，接触到太多的汽车销售领域内的名字、概念、逻辑、流程等内容，现整理出来供参考。",
+  "pluginsConfig": {
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "automobile_sales_summary"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.org/books/automobile_sales_summary/website/"
+    },
+    "toolbar-button": {
+      "url": "https://book.crifan.org/books/automobile_sales_summary/pdf/automobile_sales_summary.pdf"
+    }
+  }
+}
