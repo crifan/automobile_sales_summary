@@ -12,7 +12,7 @@
 
 ![汽车销售领域客户状态变化流程结构图](../assets/img/customer_and_4s_shop_full_process.png)
 
-> #### info::最新版本的在线分享
+> [!TIP|title:最新版本的在线分享]
 >
 > 想要最新版本的整理，可以去在线分享的地址中查看：
 >
